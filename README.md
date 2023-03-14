@@ -11,4 +11,5 @@ Repositório criado na aula de PI
 - frango
 - coca-cola
 - miojo
-- 
+- farofa
+- arroz
